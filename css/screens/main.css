@@ -1,0 +1,76 @@
+.how-to {
+  margin-top: 100px;
+}
+
+.big-title {
+  margin-top: 50px;
+}
+
+.big-title h3 {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.big-title p {
+  margin: 35px 0px;
+  margin-top: 10px;
+  font-size: 14.5px;
+}
+
+.mid-title {
+  margin: 40px 0px;
+  margin-bottom: 20px;
+}
+
+.mid-title h4 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.mid-title p {
+  line-height: 20px;
+  font-size: 13px;
+}
+
+.min-title {
+  font-size: 21px;
+  margin: 20px 0px;
+}
+
+.min-title h4 {
+  font-weight: 300;
+}
+
+.mid-content,
+.min-content {
+  font-size: 13px;
+  line-height: 15px;
+  margin-bottom: 40px;
+}
+
+.signal-info li {
+  margin: 20px;
+}
+
+.feed-sotries__content-olol li,
+.ect-long-p {
+  margin: 30px 0px;
+}
+
+.feed-sotries__content-olol {
+  margin: 20px 0px;
+}
+
+.feed-sotries__content-olol p {
+  margin: 10px 0px;
+}
+
+.feed-stories__content > p {
+  margin-top: 0px;
+}
+
+.list li {
+  margin: 10px 0px;
+  line-height: 18px;
+}

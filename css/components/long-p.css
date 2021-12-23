@@ -1,0 +1,11 @@
+p,
+.long-p {
+  font-weight: 100;
+  line-height: 23px;
+  word-spacing: .7px;
+  letter-spacing: .2px;
+}
+
+p {
+  margin: 10px 0px;
+}

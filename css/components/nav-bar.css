@@ -1,0 +1,109 @@
+.nav-bar {
+  padding: .01rem;
+  z-index: 1;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 40px;
+  display: flex;
+  color: black;
+  background-color: white;
+  opacity: 1;
+  -webkit-box-shadow: 0px 0px 25px 10px rgba(0,0,0,0.3); 
+  box-shadow: 0px 0px 25px 10px rgba(0,0,0,0.3);
+}
+
+.nav-bar ul {
+  list-style: none;
+}
+
+.nav-bar__list {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  display: flex;
+}
+
+.nav-bar li {
+  transition: .3s ease-in-out;
+}
+
+.nav-bar__name li {
+  margin: 0px 40px;
+  font-size: 20px;
+}
+
+.nav-bar__list li {
+  margin-left: 40px;
+  font-size: 13px;
+}
+
+.nav-bar li:hover {
+  border-bottom: 1.1px solid rgba(0, 0, 0, 1);
+  cursor: pointer;
+}
+
+.nav-bar__name li:hover {
+  border-bottom: none;
+  color: rgb(90, 3, 148);
+  font-weight: 700;
+}
+
+.nav-bar__toggle-btn {
+  position: fixed;
+  right: 14px;
+  top: 11px;
+}
+
+@media screen and (max-width:650px) {
+  .nav-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .nav-bar__list {
+    z-index: -1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    border-top: 1px solid rgba(0, 0, 0, .2);
+    border-end-start-radius: 30px;
+    -webkit-box-shadow: 0px 22px 31px 11px rgba(0,0,0,0.22); 
+    box-shadow: 0px 22px 31px 11px rgba(0,0,0,0.22);
+  }
+  .nav-bar__list:hover {
+    -webkit-box-shadow: 0px 22px 31px 11px rgba(0,0,0,0.32); 
+    box-shadow: 0px 22px 31px 11px rgba(0,0,0,0.32);
+  }
+  .nav-bar__name li {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: 100vw;
+    height: 40px;
+  }
+  .nav-bar__toggleBtn {
+    display: flex;
+  }
+  .nav-bar__list li {
+    margin: 10px;
+    margin-right: 0px;
+    width: 100%;
+  }
+  .nav-bar__stic {
+    display: none;
+  }
+  .nav-bar__toggle-btn {
+    display: flex;
+    cursor: pointer;
+  }
+}

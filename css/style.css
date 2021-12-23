@@ -1,0 +1,21 @@
+@import "reset.css";
+@import "fonts.css";
+
+/* Components */
+@import "./components/nav-bar.css";
+@import "./components/section-title.css";
+@import "./components/box-shadow.css";
+@import "./components/long-p.css";
+@import "./components/scroll.css";
+
+/* Screens */
+@import "./screens/about.css";
+@import "./screens/history.css";
+@import "./screens/main.css";
+
+/* Animation */
+@import "./animation/upDown.css";
+
+.none-display {
+	display: none;
+}

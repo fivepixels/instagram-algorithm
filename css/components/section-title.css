@@ -1,0 +1,37 @@
+section {
+  width: 90vw;
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.section__title {
+  cursor: pointer;
+  font-weight: 100;
+  font-size: 40px;
+}
+
+.section__text {
+  line-height: 15px;
+  font-weight: 100;
+  margin-top: 20px;
+  font-size: 13px;
+  color: rgba(0, 0, 0, .6);
+  transition: .3s ease-in-out;
+}
+
+.section__text:hover {
+  color: rgba(0, 0, 0, 1);
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.section__title:hover {
+  font-size: 60px;
+  font-weight: 700;
+  animation: 5s upDown infinite;
+  background: linear-gradient(to right top, #861657, #ffa69e);
+  color: transparent;
+  -webkit-background-clip: text;
+}
