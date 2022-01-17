@@ -1,4 +1,4 @@
-# [How Instagram Work](https://novelier-webbelier.github.io/Instagram-Algorithm/html/index.html)
+# [How Instagram Work](https://novelier-webbelier.github.io/instagram-algorithm/html/index.html)
 
 ## 내용
 
