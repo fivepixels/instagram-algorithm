@@ -1,6 +1,4 @@
-# How Instagram Work
-
-## [최종 사이트](https://novelier-webbelier.github.io/Instagram-Algorithm/html/index.html)
+# [How Instagram Work](https://novelier-webbelier.github.io/Instagram-Algorithm/html/index.html)
 
 ## 내용
 
