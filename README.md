@@ -34,7 +34,7 @@
 
 ## 라이센스
 
-이 소스코드는 [Apache 2.0 LICENSE](LICENSE) 를 따릅니다
+이 소스코드는 [MIT](LICENSE) 를 따릅니다
 
 개발자 이메일 : novelier.webbelier@gmail.com
 
