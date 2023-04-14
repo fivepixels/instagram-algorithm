@@ -2,12 +2,12 @@
   border-radius: 8px;
   padding: 20px;
   margin-bottom: 20px;
-  -webkit-box-shadow: 0px 0px 20px 4px rgba(0,0,0,0.26); 
-  box-shadow: 0px 0px 20px 4px rgba(0,0,0,0.26);
+  -webkit-box-shadow: 0px 0px 20px 4px rgba(0, 0, 0, 0.26);
+  box-shadow: 0px 0px 20px 4px rgba(0, 0, 0, 0.26);
   line-height: 23px;
 }
 
 .box-shadow:hover {
-  -webkit-box-shadow: 0px 0px 25px 10px rgba(0,0,0,0.48); 
-  box-shadow: 0px 0px 25px 10px rgba(0,0,0,0.48);
+  -webkit-box-shadow: 0px 0px 25px 10px rgba(0, 0, 0, 0.48);
+  box-shadow: 0px 0px 25px 10px rgba(0, 0, 0, 0.48);
 }
