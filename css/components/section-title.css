@@ -18,8 +18,8 @@ section {
   font-weight: 100;
   margin-top: 20px;
   font-size: 13px;
-  color: rgba(0, 0, 0, .6);
-  transition: .3s ease-in-out;
+  color: rgba(0, 0, 0, 0.6);
+  transition: 0.3s ease-in-out;
 }
 
 .section__text:hover {

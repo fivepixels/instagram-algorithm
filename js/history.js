@@ -1,13 +1,10 @@
 // Grab HTML Elements
-const btnUp = document.querySelector('.clicker__button-up');
-const btnDown = document.querySelector('.clicker__button-down');
-const yearSpan = document.querySelector('.clicker__span');
-const contentSpan = document.querySelector('.click-contents__span');
+const btnUp = document.querySelector(".clicker__button-up");
+const btnDown = document.querySelector(".clicker__button-down");
+const yearSpan = document.querySelector(".clicker__span");
+const contentSpan = document.querySelector(".click-contents__span");
 
-const btnList = [
-  btnUp,
-  btnDown
-];
+const btnList = [btnUp, btnDown];
 
 const contentList = [
   "Kevin Systrom 과 Mike Krieger 가 개발을 시작했다. 당시 프로젝트에서는 여러가지 기능이 많이 있었으나 결국 모바일에 초점을 맞추었고, 그해 10월에 iOS 버전 인스타그램을 개시하였다",
@@ -64,13 +61,13 @@ function changeContent() {
 }
 
 function printIn(spanTag, content) {
-  return spanTag.innerText = content;
+  return (spanTag.innerText = content);
 }
 
 // Add Event Listener
 for (let i = 0; i < btnList.length; i++) {
   const element = btnList[i];
-  element.addEventListener('click', () => {
+  element.addEventListener("click", () => {
     if (i === 1) {
       countYear(true);
     } else if (i === 0) {

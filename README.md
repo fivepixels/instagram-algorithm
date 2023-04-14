@@ -1,41 +1,33 @@
-# [How Instagram Work](https://novelier-webbelier.github.io/instagram-algorithm/html/index.html)
+# [How Instagram Work](https://cattynip.github.io/instagram-algorithm/html/index.html)
 
-## 내용
+## Contents
 
-- Instagram 소개
+- Introduction to Instagram
 
-  - Instagram 을 만든 사람과 어떻게 만들어 졌는지, 그리고 왜 이름이 Instagram 인지 등
+  - The people who made Instagram, how it has been built, and why the name of it is Instagram, etc.
 
-- 역사
+- History
 
-  - 2010년 부터 2020년까지의 역사
+  - The history from 2010 to 2020
 
-    > 하나하나 다 쓰면 너무 길어질 것 같아 년도를 사용자가 직접 지정하게 함
+    > Showing all history for each years might be complicated to recognize, so I made the user to control what he wants.
 
-- 작동 되는 방식
+- How it works
 
-  - 자세한 작동 원리
+  - How to Sort the overwhelming contents
 
-    - Feed & Story 의 순위 지정 방식
+    - How to sort Feeds & Stories
 
-    - Reels 의 순위 지정 방식
+    - How to sort Reels
 
-    - 탐색 탭의 순위 지정 방식
+    - How to sort the contents of Explorer
 
-  - 검색 원리
+  - How to Searh
 
-    - 검색 결과의 순위 지정 방식
+    - How to list the result of searching
 
-    - 검색 결과에 자신이 표시되는 방식
+    - How to show `me` in a list of searching
 
-    - 검색 기능 안전하게 사용하기
+    - The way to search safely
 
-    - 추후 Insta 의 검색 기능 개선을 위한 계획
-
-## 라이센스
-
-이 소스코드는 [MIT](LICENSE) 를 따릅니다
-
-개발자 이메일 : novelier.webbelier@gmail.com
-
-###### Novel Handicraft
+    - The plan for the future of searching in Instagram
