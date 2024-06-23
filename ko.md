@@ -1,4 +1,4 @@
-# [How Instagram Work](https://cattynip.github.io/instagram-algorithm/html/index.html)
+# [How Instagram Work](https://fivepixels.github.io/instagram-algorithm/)
 
 ## 내용
 

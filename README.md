@@ -1,4 +1,4 @@
-# [How Instagram Work](https://cattynip.github.io/instagram-algorithm/html/index.html)
+# [How Instagram Work](https://fivepixels.github.io/instagram-algorithm/)
 
 ## Contents
 
@@ -10,7 +10,7 @@
 
   - The history from 2010 to 2020
 
-    > Showing all history for each years might be complicated to recognize, so I made the user to control what he wants.
+    > Showing all history for each year might be complicated to recognize, so I implemented a feature that allows users to control it.
 
 - How it works
 
